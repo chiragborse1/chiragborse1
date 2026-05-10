@@ -20,6 +20,7 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 # Main Project
 
 - **[Kova](https://neuralstudio.in)** — AI that operates...
+- **[Content Hub](https://content-hub-sand.vercel.app/)** — Progressive web app for creators to organize ideas, projects, references, and content workflows
 
 ---
 
