@@ -19,7 +19,7 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 
 # Main Project
 
-- **[Kova](https://neuralstudio.in)** — AI that operates...
+- **[Kova](https://neuralstudio.in)** — Agent that ships...
 - **[MemGraph](https://github.com/chiragborse1/memgraph)** — Graph-RAG powered personal AI memory system
 - **[Content Hub](https://content-hub-sand.vercel.app/)** — Progressive web app for creators to organize ideas, projects, references, and content workflows
 - **[MCP Guard](https://github.com/chiragborse1/mcp-guard)** — Security-focused CLI for detecting leaked API keys, MCP secrets, and AI-agent credentials before they reach GitHub
