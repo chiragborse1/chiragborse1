@@ -23,7 +23,7 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 - **[MemGraph](https://github.com/chiragborse1/memgraph)** — Graph-RAG powered personal AI memory system
 - **[Content Hub](https://content-hub-sand.vercel.app/)** — Progressive web app for creators to organize ideas, projects, references, and content workflows
 - **[MCP Guard](https://github.com/chiragborse1/mcp-guard)** — Security-focused CLI for detecting leaked API keys, MCP secrets, and AI-agent credentials before they reach GitHub
-
+- **[Agent Observability Lite](https://github.com/chiragborse1/agent-observability-lite)** — Local-first dashboard for tracing AI-agent runs, debugging failures, and monitoring workflow reliability
 ---
 
 # Current Experiments
