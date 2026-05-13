@@ -15,8 +15,6 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 
 > Focused on building modern AI systems, orchestration runtimes, developer tooling, and terminal-native workflows.
 
----
-
 ## Current Projects
 
 - 🤖 **[Kova](https://neuralstudio.in)** — Agent that ships...
@@ -24,8 +22,6 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 - 📚 **[Content Hub](https://content-hub-sand.vercel.app/)** — Progressive web app for creators to organize ideas, projects, references, and content workflows
 - 🛡️ **[MCP Guard](https://github.com/chiragborse1/mcp-guard)** — Security-focused CLI for detecting leaked API keys, MCP secrets, and AI-agent credentials before they reach GitHub
 - 📊 **[Agent Observability Lite](https://github.com/chiragborse1/agent-observability-lite)** — Local-first dashboard for tracing AI-agent runs, debugging failures, and monitoring workflow reliability
-
----
 
 ## Current Experiments
 
@@ -38,8 +34,6 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 - Agent control interfaces
 - Workflow automation engines
 
----
-
 ## What I'm Doing
 
 - Building modern AI-native developer tooling
@@ -50,21 +44,16 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 - Learning distributed agent infrastructure
 - Shipping experiments fast
 
----
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/chiragborse1)
 
----
-
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chiragborse1)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chiragborse1)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/venzzzy)
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/chiragborse1)
-
----
+[![LinkedIn](https://img.shields.io/badge/-Chirag%20Borse-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-borse/)
 
 <details>
 <summary>Random Builder Notes</summary>
