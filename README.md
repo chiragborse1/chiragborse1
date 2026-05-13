@@ -1,4 +1,4 @@
-# Hi, I'm Chirag 👋
+## Hi, I'm Chirag 👋
 
 📍 **India** | **AI Systems Builder** | **Terminal & Agent Infrastructure**
 
@@ -17,7 +17,7 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 
 ---
 
-# Current Projects
+## Current Projects
 
 - 🤖 **[Kova](https://neuralstudio.in)** — Agent that ships...
 - 🧠 **[MemGraph](https://github.com/chiragborse1/memgraph)** — Graph-RAG powered personal AI memory system
@@ -27,7 +27,7 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 
 ---
 
-# Current Experiments
+## Current Experiments
 
 - Multi-agent orchestration
 - AI-native terminal workflows
@@ -40,7 +40,7 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 
 ---
 
-# What I'm Doing
+## What I'm Doing
 
 - Building modern AI-native developer tooling
 - Experimenting with orchestration systems
@@ -52,13 +52,13 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 
 ---
 
-# GitHub Activity
+## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/chiragborse1)
 
 ---
 
-# Connect
+## Connect
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chiragborse1)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/venzzzy)
