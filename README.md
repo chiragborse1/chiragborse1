@@ -17,7 +17,7 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 
 ---
 
-# Main Project
+# Current Projects
 
 - **[Kova](https://neuralstudio.in)** — Agent that ships...
 - **[MemGraph](https://github.com/chiragborse1/memgraph)** — Graph-RAG powered personal AI memory system
