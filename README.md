@@ -17,12 +17,12 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 
 ## Current Projects
 
-- 🤖 **[Kova](https://neuralstudio.in)** — Agent that ships...
-- 🪟 **[CodexBar-Windows](https://github.com/chiragborse1/CodexBar-Windows)** — Windows tray app and CLI for tracking AI coding-provider limits
-- 🧠 **[MemGraph](https://github.com/chiragborse1/memgraph)** — Graph-RAG powered personal AI memory system
-- 📚 **[Content Hub](https://content-hub-sand.vercel.app/)** — Progressive web app for creators to organize ideas, projects, references, and content workflows
-- 🛡️ **[MCP Guard](https://github.com/chiragborse1/mcp-guard)** — Security-focused CLI for detecting leaked API keys, MCP secrets, and AI-agent credentials before they reach GitHub
-- 📊 **[Agent Observability Lite](https://github.com/chiragborse1/agent-observability-lite)** — Local-first dashboard for tracing AI-agent runs, debugging failures, and monitoring workflow reliability
+- 🤖 **[Kova](https://neuralstudio.in)** — AI agent platform for building and shipping faster
+- 🪟 **[CodexBar-Windows](https://github.com/chiragborse1/CodexBar-Windows)** — Windows tray app for tracking AI coding limits
+- 🧠 **[MemGraph](https://github.com/chiragborse1/memgraph)** — Graph-based memory system for personal AI
+- 📚 **[Content Hub](https://content-hub-sand.vercel.app/)** — Workspace for organizing ideas, projects, and content
+- 🛡️ **[MCP Guard](https://github.com/chiragborse1/mcp-guard)** — CLI for catching leaked keys and MCP secrets
+- 📊 **[Agent Observability Lite](https://github.com/chiragborse1/agent-observability-lite)** — Local dashboard for debugging AI-agent runs
 
 ## Current Experiments
 
