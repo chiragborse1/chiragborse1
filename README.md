@@ -2,7 +2,7 @@
 
 📍 **India** | **AI Systems Builder** | **Terminal & Agent Infrastructure**
 
-Currently building AI-native developer tooling, orchestration systems, workflow runtimes, and experimental agent infrastructure.
+I build terminal-native developer tools, agent workflows, and local-first AI infrastructure.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -13,37 +13,21 @@ Currently building AI-native developer tooling, orchestration systems, workflow 
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-121212?style=flat-square)
 ![MCP](https://img.shields.io/badge/-MCP-7C3AED?style=flat-square)
 
-> Focused on building modern AI systems, orchestration runtimes, developer tooling, and terminal-native workflows.
+## Projects
 
-## Current Projects
+- 🤖 **[Kova](https://neuralstudio.in)** — AI agent platform for building production workflows
+- 🪟 **[CodexBar-Windows](https://github.com/chiragborse1/CodexBar-Windows)** — Windows tray app for tracking AI coding usage
+- 🛡️ **[MCP Guard](https://github.com/chiragborse1/mcp-guard)** — CLI for detecting leaked keys and MCP secrets
+- 📊 **[Agent Observability Lite](https://github.com/chiragborse1/agent-observability-lite)** — Local dashboard for debugging agent runs
+- 🧠 **[MemGraph](https://github.com/chiragborse1/memgraph)** — Graph memory layer for personal AI systems
+- 📚 **[Content Hub](https://content-hub-sand.vercel.app/)** — Workspace for organizing ideas and projects
 
-- 🤖 **[Kova](https://neuralstudio.in)** — AI agent platform for building and shipping faster
-- 🪟 **[CodexBar-Windows](https://github.com/chiragborse1/CodexBar-Windows)** — Windows tray app for tracking AI coding limits
-- 🧠 **[MemGraph](https://github.com/chiragborse1/memgraph)** — Graph-based memory system for personal AI
-- 📚 **[Content Hub](https://content-hub-sand.vercel.app/)** — Workspace for organizing ideas, projects, and content
-- 🛡️ **[MCP Guard](https://github.com/chiragborse1/mcp-guard)** — CLI for catching leaked keys and MCP secrets
-- 📊 **[Agent Observability Lite](https://github.com/chiragborse1/agent-observability-lite)** — Local dashboard for debugging AI-agent runs
+## Focus
 
-## Current Experiments
-
-- Multi-agent orchestration
-- AI-native terminal workflows
-- Runtime memory systems
+- Agent orchestration
+- Terminal-first developer tools
+- Local-first AI infrastructure
 - MCP ecosystem tooling
-- Local-first AI systems
-- Autonomous coding workflows
-- Agent control interfaces
-- Workflow automation engines
-
-## What I'm Doing
-
-- Building modern AI-native developer tooling
-- Experimenting with orchestration systems
-- Redesigning AI workflow UX
-- Exploring persistent memory architectures
-- Building terminal-first experiences
-- Learning distributed agent infrastructure
-- Shipping experiments fast
 
 ## GitHub Activity
 
