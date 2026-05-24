@@ -43,10 +43,10 @@ I build terminal-native developer tools, agent workflows, and local-first AI inf
 <details>
 <summary>Random Builder Notes</summary>
 
-- Usually running too many terminals simultaneously
-- Constantly redesigning workflows
-- Interested in AI systems more than AI chat apps
-- Prefer infrastructure over wrappers
-- Building while learning
+- I like tools that disappear into the workflow
+- Most ideas start as a terminal command or a messy note
+- Agents are only useful when they can actually ship work
+- Prefer durable systems over shiny demos
+- Always building, breaking, and tightening the loop
 
 </details>
