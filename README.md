@@ -25,7 +25,7 @@ I build terminal native developer tools, agent workflows, and local-first AI inf
 ## Focus
 
 - Agent orchestration
-- Terminal-first developer tools
+- Terminal first developer tools
 - Local first AI infrastructure
 - MCP ecosystem tooling
 
